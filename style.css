@@ -2,3 +2,9 @@ body {
   background-color: rgb(200,0,0);
   color: rgb(255,255,255);
 }
+#inicio {
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+}
