@@ -9,3 +9,7 @@ body {
   border-bottom-width: 1px;
   border-left-width: 1px;
 }
+aside {
+  background-color: rgb(125,0,0);
+  text-align: center;
+}
