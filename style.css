@@ -4,12 +4,16 @@ body {
   font-family: Georgia, serif;
 }
 #inicio {
-  border-top-width: 1px;
-  border-right-width: 1px;
-  border-bottom-width: 1px;
-  border-left-width: 1px;
+  left: 5%;
+  
 }
 aside {
   background-color: rgb(125,0,0);
   text-align: center;
+  left: 5%;
+  width: 85%;
+}
+#multimedia {
+  position: relative;
+  left: 50%;
 }
